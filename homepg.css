@@ -1,0 +1,32 @@
+.jumbotron{
+
+padding: 80px 15px 15px 15px;
+color: black;
+background-color: rgba(137, 43, 226, 0.486);
+}
+.marg{
+margin-top: 50px;
+margin-bottom: 40px;
+/* width: 50%; */
+}
+
+.foot{
+padding-top: 15px;
+background-color: rgba(137, 43, 226, 0.486);
+}
+
+body{
+    background-color: rgba(154, 134, 190, 0.658);
+}
+nav{
+    background-color: rgba(107, 43, 226, 0.822);
+}
+
+.active{
+    font-weight: bold;
+}
+
+.nounderline{
+    color: black;
+    text-decoration: none;
+}
