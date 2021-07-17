@@ -29,3 +29,6 @@ nav{
     color: black;
     text-decoration: none;
 }
+.shadow{
+    filter: drop-shadow(0 0 0.75rem rgb(180, 182, 44));
+}
