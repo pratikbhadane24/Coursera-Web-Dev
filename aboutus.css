@@ -12,9 +12,7 @@
     margin-bottom: 40px;
     /* width: 50%; */
 }
-body{
-    background-color: rgba(70, 161, 111, 0.897);
-}
+
 .foot{
     padding-top: 15px;
     background-color: rgba(226, 211, 211, 0.993);
@@ -31,4 +29,9 @@ nav{
 }
 .shadow{
     filter: drop-shadow(0 0 0.75rem rgb(180, 182, 44));
+}
+
+.thead-dark{
+    background-color: black;
+    color: aliceblue;
 }
