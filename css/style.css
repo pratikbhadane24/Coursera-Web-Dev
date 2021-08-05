@@ -75,4 +75,6 @@ height: 300px;
 .shadow:hover{
   color: rgb(174, 0, 255);
 }
-
+.bghead{
+  background-color: rgb(174, 0, 255);
+}
